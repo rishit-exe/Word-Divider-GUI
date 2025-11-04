@@ -2,6 +2,13 @@
 
 An interactive Next.js GUI for exploring and experimenting with word-division algorithms and related assembly-level tooling. This repository contains a modern UI built with React/Next.js and a set of small utilities to demonstrate how words can be divided, visualized, and adjusted in different contexts.
 
+Live preview
+
+[![Live preview](https://img.shields.io/badge/Live%20Preview-Open-brightgreen?style=for-the-badge&logo=vercel)](https://word-divider.vercel.app/)
+
+Click the badge above to open the deployed site
+
+
 ## 📸 Screenshots
 
 Homepage
